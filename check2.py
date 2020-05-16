@@ -1,4 +1,4 @@
-from funcoes import *
+from check2funcoes import *
 inventario = {"fulano@xxx.com":["Fulano", "p@sswd"], "alguem@yyy.com":["Alguem", "Try@gain"], "aluno@pridefiap.com":["Breno Toledo", "Cyberstorm"]}
 resp = "N"
 while resp == "N":
